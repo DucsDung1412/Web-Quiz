@@ -6,3 +6,4 @@
       <h6>- Build frontend</h6>
 <h4>Technology in use:</h4>
       <h6>- Frontend: HTML, CSS, JavaScript, Boostrap, AngularJS</h6>
+<h1>IMPORTANT: Run jsonServer before code</h1>
